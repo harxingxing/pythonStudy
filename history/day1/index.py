@@ -187,7 +187,7 @@ Dictionary（字典）：列表是有序的对象集合，字典是无序的对�
 
 
 总结：
-几种类型之间的区别：查看：http://note.youdao.com/noteshare?id=2e5b0c3c191f43164ed8f8a92e49e110&sub=757E0C25DE1544DE85BC3609FB3EC173
+几种类型之间的区别：查看：https://blog.csdn.net/harxingxing/article/details/80521024
 
 
 '''
